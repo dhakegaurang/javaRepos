@@ -1,0 +1,10 @@
+This program is combination of project statements (included in the directory) made as graduate project at completion of the course Information Retrieval
+It works as follows:
+1) It scans all the HTML documents from the input folder
+2) It retrieves tokens and filters them as the problem statement in the doc
+3) It also creates dictionary, document Table and postings list for the same 
+4) Then after entering boolean query, it scans these created documents and gives output in the form of entries from the document table
+
+
+****Program execution*****
+1) The program may input the following command line arguments
